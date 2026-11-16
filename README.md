@@ -1,4 +1,4 @@
-# Paper Margin 网页版 + Agent插件
+# Paper Margin 网页版 + Agent插件版
 
 ## 人工写的注意事项（必看）
 - 灵感来源：忘了，可能是B站，可能是小黑盒。总之就是我在网上看到了别人的idea，然后自己wish coding了一下。
