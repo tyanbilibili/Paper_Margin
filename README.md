@@ -2,9 +2,14 @@
 
 ## 人工写的注意事项（必看）
 - 灵感来源：忘了，可能是B站，可能是小黑盒。总之就是我在网上看到了别人的idea，然后自己wish coding了一下。
-- 1.最新版本：**20261116**（0.1.3）
+- 1.最新版本：**20261116**（0.1.4）
 - 2.目前非常的初版，功能还比较简陋，欢迎填issue！
-- 3.后续会在releases上传一个适用于DeepSeek Harness和Reasonix Studio的插件压缩包。
+- ~~3.后续会在releases上传一个适用于DeepSeek Harness和Reasonix Studio的插件压缩包。~~
+
+
+#### 网页版请前往https://tyanbilibili.github.io/Paper_Margin/ 在线使用。最大支持100页pdf。
+
+#### Agent插件版请去Releases下载并让你的AI自己安装。最大支持300页pdf。
 
 # （下面都是AI写的，看不看随你）
 
