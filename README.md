@@ -1,4 +1,4 @@
-# Paper Margin 网页版
+# Paper Margin 网页版 + Agent插件
 
 ## 人工写的注意事项（必看）
 - 1.最新版本：**20261116**
