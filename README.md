@@ -11,6 +11,14 @@
 
 #### Agent插件版请去Releases下载并让你的AI自己安装。最大支持300页pdf。
 
+### 致谢
+- 我
+- gpt6.1-sol（以及它背后的不知名小中转站）
+- reasonix studio
+
+### 谴责
+- [阿巴阿巴713](https://space.bilibili.com/1781884621)
+
 # （下面都是AI写的，看不看随你）
 
 首版已实现：Vite + TypeScript、PDF.js 原页预览、本地 Tesseract OCR（英文 / 简体中文＋英文）、OpenAI-compatible Chat Completions、逐段中文讲解及可选译文、全文引用总结、拖动分栏、任务 JSON 保存/恢复、离线 HTML 导出。
