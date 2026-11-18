@@ -6,7 +6,7 @@
 - 2.目前非常的初版，功能还比较简陋，欢迎填issue！
 - ~~3.后续会在releases上传一个适用于DeepSeek Harness和Reasonix Studio的插件压缩包。~~ 已上传。
 - 4.margin是页边/侧栏的意思，不是保证金！
-
+- 5.每个版本的更新内容现在放在code/update history文件夹里了，需要的自行查看即可！
 
 #### 网页版请前往https://tyanbilibili.github.io/Paper_Margin/ 在线使用。最大支持100页pdf。
 
